@@ -19,7 +19,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "bower-asset/knockout": "3.2.*"
+        "bower-asset/knockout": "3.3.*"
     },
     "autoload": {
         "psr-4": {
