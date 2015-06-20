@@ -20,6 +20,12 @@ or add
 
 to the `require` section of your `composer.json` file.
 
+You may also specify the version of Knockout to install (e.g. 3.2), starting from 3.1:
+
+```bash
+# this will install the latest revision in 3.1 branch (e.g. 3.1.0)
+composer require --prefer-dist "madand/yii2-knockoutjs:3.1"
+```
 
 ## Usage
 
