@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 
 class KnockoutAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/knockout/dist';
+    public $sourcePath = '@bower/knockout/dist';
     public $js = [
         'knockout.js',
     ];
